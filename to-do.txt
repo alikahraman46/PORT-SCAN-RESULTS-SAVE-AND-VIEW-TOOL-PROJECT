@@ -1,0 +1,5 @@
+Do not use pdf format for documents that need to be edited frequently. Use txt or md format instead.
+Create a readme file for this project.
+Use the sample for prd file.
+Create an erd diagram for the database design of this project.
+Use .md for prd.
