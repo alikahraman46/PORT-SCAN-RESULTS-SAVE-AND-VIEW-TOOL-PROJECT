@@ -1,11 +1,15 @@
 PRODUCT REQUIREMENTS DOCUMENT
+
 PORT SCAN RESULTS SAVE AND VIEW TOOL
 
 PREPARER:ALİ KAHRAMAN
+
 ADVISOR:MEHMET ÇAĞATAY URVAYLIOĞLU
+
 VERSION:v1.0
 
 09.09.2025
+
 Ankara
 
 1. ENTRANCE
@@ -56,6 +60,7 @@ testers.
  Database: Results should be stored efficiently using Django ORM.
 
 5. TIMELINE
+
 History               Stage
 
 1. Week    Project planning, PRD and ERD preparation
