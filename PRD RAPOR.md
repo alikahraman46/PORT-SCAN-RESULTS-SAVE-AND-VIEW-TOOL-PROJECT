@@ -30,6 +30,7 @@ testers.
  User managment and login system.
 
 3. FUNCTIONAL REQUIREMENTS
+   
 3.1 Scanning Module
 
  The user should be able to start a scan by entering an IP address or domain.
@@ -61,14 +62,14 @@ testers.
 
 5. TIMELINE
 
-History               Stage
+    History               Stage
 
-1. Week    Project planning, PRD and ERD preparation
-2. Week    Creating a registration and login system
-3. Week    Create a Django project
-4. Week    Scanning module and data logging
-5. Week    Interface development
-6. Weeek   Tests and bug fixes
+    1. Week    Project planning, PRD and ERD preparation
+    2. Week    Creating a registration and login system
+    3. Week    Create a Django project
+    4. Week    Scanning module and data logging
+    5. Week    Interface development
+    6. Weeek   Tests and bug fixes
 
 
 6. SUCCESS CRITERIA
