@@ -18,15 +18,20 @@ Ankara
 
  Aim: Storing the results obtained by performing N port scanning on the target IP entered by
 the user in the system and presenting them visually via the web interface.
+
  Target Group: Cybersecurity experts, network administrators, IT professionals, penetration
 testers.
 
 2. GOALS
 
  Ensuring port scanning.
+ 
  Keeping the results in the database.
+ 
  To provide the user with the ability to view past scans.
+ 
  Providing easy analysis with filtering and sorting features.
+ 
  User managment and login system.
 
 3. FUNCTIONAL REQUIREMENTS
@@ -45,37 +50,51 @@ testers.
 3.2 Interface Module
 
  Previous scans should be listed on the home page.
+ 
  Every scan must have a detail page.
+ 
  A new screening initiation form must be submitted.
 
 3.3 User Module
 
  User registration/login system.
+ 
  Each user should be able to see their own scans.
+ 
  Manage all data from the admin paanel.
 
 4. NON-FUNCTIONAL REQUIREMENTS
 
  Security: Logged in users should only be able to see their own data.
+ 
  Availability: The interface should be simple and understandable.
+ 
  Database: Results should be stored efficiently using Django ORM.
 
 5. TIMELINE
 
        History               Stage
+   
+1. Week    Project planning, PRD and ERD preparation
+  
+2. Week    Creating a registration and login system
+  
+3. Week    Create a Django project
+  
+4. Week    Scanning module and data logging
 
-    1. Week    Project planning, PRD and ERD preparation
-    2. Week    Creating a registration and login system
-    3. Week    Create a Django project
-    4. Week    Scanning module and data logging
-    5. Week    Interface development
-    6. Weeek   Tests and bug fixes
+5. Week    Interface development
+
+6. Weeek   Tests and bug fixes
 
 6. SUCCESS CRITERIA
 
 Users should be able to succesfully initiate a port scan.
+
 Results must be recorded and displayed accurately.
+
 The system should be able to handle multiple scans without crashing.
+
 The developed system should be published as open source.
 
 
