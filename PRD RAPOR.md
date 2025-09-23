@@ -71,12 +71,11 @@ testers.
     5. Week    Interface development
     6. Weeek   Tests and bug fixes
 
-
 6. SUCCESS CRITERIA
 
- Users should be able to succesfully initiate a port scan.
- Results must be recorded and displayed accurately.
- The system should be able to handle multiple scans without crashing.
- The developed system should be published as open source.
+Users should be able to succesfully initiate a port scan.
+Results must be recorded and displayed accurately.
+The system should be able to handle multiple scans without crashing.
+The developed system should be published as open source.
 
 
