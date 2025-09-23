@@ -62,7 +62,7 @@ testers.
 
 5. TIMELINE
 
-    History               Stage
+       History               Stage
 
     1. Week    Project planning, PRD and ERD preparation
     2. Week    Creating a registration and login system
