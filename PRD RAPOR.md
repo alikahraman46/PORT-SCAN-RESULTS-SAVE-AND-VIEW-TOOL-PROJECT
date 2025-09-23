@@ -39,12 +39,19 @@ testers.
 3.1 Scanning Module
 
  The user should be able to start a scan by entering an IP address or domain.
+ 
  Port range should be selectable.
+ 
  Open/closed ports should be listed as a results of the scan.
+ 
  The following information should be kept for each scan:
+ 
  Target IP/domain
+ 
  Scan date/time
+ 
  Scanning time
+ 
  Open ports.
 
 3.2 Interface Module
@@ -73,7 +80,7 @@ testers.
 
 5. TIMELINE
 
-       History               Stage
+       History       Stage
    
       *1. Week    Project planning, PRD and ERD preparation
   
