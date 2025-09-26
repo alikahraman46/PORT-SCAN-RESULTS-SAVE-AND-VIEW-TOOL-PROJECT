@@ -60,7 +60,7 @@ testers.
   - 3.Week  : Create a Django project
   - 4.Week  : Scanning module and data logging
   - 5.Week  : Interface development
-  - 6.Weeek : Tests and bug fixes
+  - 6.Week  : Tests and bug fixes
 
 ## 6. SUCCESS CRITERIA
 
