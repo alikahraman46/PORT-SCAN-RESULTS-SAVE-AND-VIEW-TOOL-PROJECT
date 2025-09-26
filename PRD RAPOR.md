@@ -55,12 +55,12 @@ testers.
 ## 5. TIMELINE
 
    ### History   Stage
-  - 1.Week    Project planning, PRD and ERD preparation
-  - 2.Week    Creating a registration and login system
-  - 3.Week    Create a Django project
-  - 4.Week    Scanning module and data logging
-  - 5.Week    Interface development
-  - 6.Weeek   Tests and bug fixes
+  - 1.Week  : Project planning, PRD and ERD preparation
+  - 2.Week  : Creating a registration and login system
+  - 3.Week  : Create a Django project
+  - 4.Week  : Scanning module and data logging
+  - 5.Week  : Interface development
+  - 6.Weeek : Tests and bug fixes
 
 ## 6. SUCCESS CRITERIA
 
